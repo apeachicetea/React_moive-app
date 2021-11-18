@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React_moive-app/static/js/main.e2e1749a.chunk.js",
+    "main.js.map": "/React_moive-app/static/js/main.e2e1749a.chunk.js.map",
+    "runtime-main.js": "/React_moive-app/static/js/runtime-main.5f94da60.js",
+    "runtime-main.js.map": "/React_moive-app/static/js/runtime-main.5f94da60.js.map",
+    "static/js/2.909dd24b.chunk.js": "/React_moive-app/static/js/2.909dd24b.chunk.js",
+    "static/js/2.909dd24b.chunk.js.map": "/React_moive-app/static/js/2.909dd24b.chunk.js.map",
+    "index.html": "/React_moive-app/index.html",
+    "static/js/2.909dd24b.chunk.js.LICENSE.txt": "/React_moive-app/static/js/2.909dd24b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f94da60.js",
+    "static/js/2.909dd24b.chunk.js",
+    "static/js/main.e2e1749a.chunk.js"
+  ]
+}
